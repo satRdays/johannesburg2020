@@ -142,15 +142,15 @@ function getImg () {
   var ratio = vp.ratio;
   var width = vp.width;
   if (width > 1080) {
-    return 'images/capetown.jpg';
+    return 'images/johannesburg1.jpg';
   } else if (width > 720 && ratio > 1) {
-    return 'images/capetown.jpg';
+    return 'images/johannesburg1.jpg';
   } else if (width > 720 && ratio == 1) {
-    return 'images/capetown.jpg';
+    return 'images/johannesburg1.jpg';
   } else if (ratio > 1) {
-    return 'images/capetown.jpg';
+    return 'images/johannesburg1.jpg';
   } else {
-    return 'images/capetown.jpg';
+    return 'images/johannesburg1.jpg';
   }
 }
 
