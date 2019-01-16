@@ -7,8 +7,10 @@
     <div class="container">
       <div class="row">
         <div class="col-md-10 col-md-offset-1">
+        {% comment %}
           {% capture my_include %}{% include instructions-maelle.md %}{% endcapture %}
           {{ my_include | markdownify }}
+        {% endcomment %}
         </div>
       </div>
     </div>
