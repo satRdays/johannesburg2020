@@ -138,6 +138,11 @@
 
 body { padding-top: 50px; }
 
+header {
+    background-image: url("../images/johannesburg1.jpg");
+    background-size: 100% 100%;
+}
+
 .navbar-fixed-top {
   background-color: #2165b6; /* Fallback color */
   background-color: rgba(0,0,0,0.5);
