@@ -27,6 +27,6 @@ When a speaker is out of time, stand up and make it clear to the speaker that th
 ### Time Allocation
 
 - 1 minute transition time between all talks
-- keynote talk: 60 minutes (ideally 5 minutes for questions, but can probably be left to the speakers discretion)
+- keynote talk: 45 minutes (ideally 5 minutes for questions, but can probably be left to the speakers discretion)
 - standard talk: 20 minutes (15 minutes talk time, 5 minutes for questions)
-- lightning talk: 5 minutes (usually there is only time for 1 or 2 questions, if any)
+- lightning talk: 5 minutes 
