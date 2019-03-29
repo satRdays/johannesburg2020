@@ -20,7 +20,7 @@ There will only be question time for standard and keynote talks. Try to formulat
 
 ### Timekeeping
 
-To help give timing feedback to the speakers you'll be provided with flashcards. For keynote and standard talks you should notify the speaker when they have 10, 5, 2 and 1 minutes remaining. For lightning talks you should notify the speaker when they have 2 and 1 minutes to go.
+To help give timing feedback to the speakers you'll be provided with flashcards. For keynote and standard talks you should notify the speaker when they have 5, 2 and 1 minutes remaining. For lightning talks you should notify the speaker when they have 2 and 1 minutes to go.
 
 When a speaker is out of time, stand up and make it clear to the speaker that they need to bring things to a close rapidly.
 
