@@ -180,4 +180,16 @@ header {
  vertical-align: middle;
 }
 
+.sponsor {
+    width: 100%;
+    font-size: 1.0em;
+    font-style: italic;
+    margin-bottom: 10px;
+    float: left;
+    clear: left;
+}
+
+
+
+
 
