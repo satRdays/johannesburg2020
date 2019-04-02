@@ -115,6 +115,14 @@
 .session-chair::before {
     content: "Chair: ";
 }
+.session-sponsor {
+    width: 100%;
+    font-size: 0.8em;
+    font-style: italic;
+    font-weight: bold;
+    float: left;
+    clear: left;
+}
 
 .lightning {
     color: orange;
@@ -179,17 +187,3 @@ header {
 .twitter-share-button {
  vertical-align: middle;
 }
-
-.sponsor {
-    width: 100%;
-    font-size: 1.0em;
-    font-style: italic;
-    margin-bottom: 10px;
-    float: left;
-    clear: left;
-}
-
-
-
-
-
