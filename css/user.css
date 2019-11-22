@@ -185,5 +185,31 @@ header {
 }
 
 .twitter-share-button {
- vertical-align: middle;
+    vertical-align: middle;
 }
+
+
+/* Venue section */
+.product-slider #thumbcarousel { 
+    margin: 12px 0 0; padding: 0 45px; 
+}
+
+.product-slider #thumbcarousel .item { 
+    text-align: center; 
+}
+
+.product-slider #thumbcarousel .item .thumb {
+    width: 25%; margin: 0 2%; 
+    display: inline-block; 
+    vertical-align: middle; 
+    cursor: pointer; 
+    max-width: 98px; 
+}
+
+.product-slider #thumbcarousel .item .thumb:hover {
+    border-color: #1089c0; }
+
+.product-slider .item img { 
+    width: 100%; height: auto; 
+}
+/* Venue section */
