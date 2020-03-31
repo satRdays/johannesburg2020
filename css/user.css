@@ -120,6 +120,11 @@
 .session-talk .talk {
     font-size: 0.95em;
 }
+
+.session-talk ul {
+    margin-left: 15px;
+}
+
 .session-chair {
     width: 100%;
     font-size: 0.8em;
